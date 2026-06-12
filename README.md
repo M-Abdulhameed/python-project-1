@@ -20,5 +20,5 @@ Purpose:
 
 This project was created to practice fundamental programming concepts such as loops, conditional statements, user input handling, and basic problem-solving.
 
-output:
+
 ![image alt](https://github.com/M-Abdulhameed/python-project-1/blob/53103dbd3a72d9ecaa5b9456f081de2685df10f3/Screenshot%20(380).png)
